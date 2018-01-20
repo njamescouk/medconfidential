@@ -1,0 +1,19 @@
+export each sheet of PHE data release registers - public review.ods 
+to PHE14-15.csv PHE15-16.csv PHE16-17.csv PHE17-18.csv by hand
+
+clear out some of obvious tripe
+
+dates all over the place, edited ss and saved sheets as csv
+ran clean.bat, still problems
+
+manually format dates in ss, save copy as to csv files, then clean.db
+
+we have a table in a db
+
+starting commentary
+
+creating summary pages via views
+
+stalled with legal bases, keying phe table
+
+done?
