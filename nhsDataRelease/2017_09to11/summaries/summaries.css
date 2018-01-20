@@ -1,0 +1,10 @@
+td,th
+{
+  border: 1px dotted #808080;
+  vertical-align: top;
+}
+
+p
+{
+    max-width: 50em;
+}

@@ -1,0 +1,54 @@
+csvs saved from ssheet
+
+renamed to give reasonable table name
+headings edited for brevity
+
+this note in heading of releases file
+(Note: Anonymised - ICO code compliant data may show as 'Y' 
+due to inclusion of 'Date of Death')
+
+edited file names to get reasonable table names
+
+data nice and clean
+
+need a key on purposes
+
+sections
+========
+
+section is :
+    title
+    blurb
+    table frame
+    link to table
+
+    [{subSection
+    title
+    blurb
+    table frame
+    link to table}]
+
+table is in <section.id[subSection.id]>.html
+
+
+input : csv files for database
+        spec of extracts
+
+specs : section spec
+        sub section spec
+
+section :  id
+           title
+           blurb
+           table spec
+
+sub section : parent section
+              id
+              title
+              blurb
+              table spec
+
+table spec : sql for data =  select * from view [order by]
+
+output : formatted extracts of db
+
