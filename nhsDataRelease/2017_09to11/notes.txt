@@ -52,3 +52,6 @@ table spec : sql for data =  select * from view [order by]
 
 output : formatted extracts of db
 
+======================
+
+db really needs normalising to some extent but ok for now
