@@ -1,0 +1,4 @@
+.load pow.sqlext sqlite3_pow_init
+.load regexp.sqlext sqlite3_regexp_init
+.load md5.sqlext sqlite3_md5_init
+PRAGMA foreign_keys = 1;

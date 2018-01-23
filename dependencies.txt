@@ -1,0 +1,13 @@
+C:\bin\msys\bin\sed.exe
+c:\bin\sqliteimport.exe
+c:\bin\sqlite3.exe
+c:\bin\sqliterc
+c:\bin\*.sqlext
+c:\bin\csvrewrite.exe
+c:\bin\pandoc.exe
+C:\bin\msys\bin\grep.exe
+c:\bin\numberLines.exe
+C:\bin\msys\bin\msys-intl-8.dll
+C:\bin\msys\bin\msys-1.0.dll
+C:\bin\msys\bin\msys-iconv-2.dll
+
